@@ -1,5 +1,5 @@
 name: Ryan Toole
 markdown: kramdown
-remote_theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 
 permalink: /blog/:year/:month/:day/:title
