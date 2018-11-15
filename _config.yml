@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 name: Ryan Toole
 theme: jekyll-theme-slate
-
-=======
-name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-slate
->>>>>>> parent of eab1ee5... hmm, attempting to get a theme
