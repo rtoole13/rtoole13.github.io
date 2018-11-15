@@ -1,5 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: Ryan Toole
 markdown: kramdown
+theme: jekyll-theme-slate
 
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-slate
