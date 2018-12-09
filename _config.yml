@@ -1,8 +1,8 @@
 # Site settings
-title: Portfolio
+title: Ryan Toole - Personal Site
 email: rtoole13@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A space to showcase a few projects.
 baseurl:  '' # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 repository: https://github.com/rtoole13/rtoole13.github.io
