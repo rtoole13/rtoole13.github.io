@@ -1,23 +1,28 @@
-name: Ryan Toole
+# Site settings
+title: Portfolio
+email: rtoole13@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  '' # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+repository: https://github.com/rtoole13/rtoole13.github.io
+twitter_username: RyanBri04146241
+github_username:  rtoole13
+
+# Build settings
 markdown: kramdown
+
+highlighter: rouge
+
 collections:
-  authors:
+  portfolio:
     output: true
+    permalink: /portfolio/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
 
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
-permalink: /blog/:year/:month/:day/:title
