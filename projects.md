@@ -5,11 +5,44 @@ title: projects
 description: A collection of games and other interactive projects.
 ---
 
-<ul class="post-list">
-{% for project in site.projects reversed %}
-    <li>
-        <h2><a class="project-title" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a></h2>
-        <p class="post-meta">{{ project.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
+{% for project in site.projects %}
+
+{% if project.redirect %}
+<div class="project">
+    <div class="thumbnail">
+        <a href="{{ project.redirect }}" target="_blank">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+{% else %}
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="{{ site.baseurl }}{{ project.url }}">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+{% endif %}
+
 {% endfor %}
-</ul>
