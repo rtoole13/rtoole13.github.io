@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Pickets
-description: A top-down American Civil War RTS
+description: A top-down RTS
 img: /img/main_map.png
 ---
 <div>
-As a general commanding various units, you struggle commanding multiple units by means of a limited pool of couriers in this top-down strategy game.
+As a general leading an army, you struggle with the logistics of courier-issued orders in this top-down strategy game.
 {% if jekyll.environment == "development" %}
     <p>Play <a href="{{ site.baseurl }}https:/rtoole13.github.io/pickets">here!</a></p>
 {% else %}

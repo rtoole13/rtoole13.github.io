@@ -11,6 +11,9 @@ By day I work with a team of skilled artists, mashing together platforms, enviro
 By night I develop games! Mostly browser-based, and mostly involving meticulous reinvention of the wheel.. Every so often I dabble in such things as three.js and Unity.
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 <hr/>
 <br/>
 <span class="contacticon center">
