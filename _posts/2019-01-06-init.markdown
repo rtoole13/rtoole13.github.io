@@ -1,0 +1,25 @@
+---
+layout: post
+title:  initial post
+date:   2019-01-06 12:00:00
+description: kicking off the site
+---
+
+#### The blog
+</br>
+I'm not sure how often I'll end up posting here, but my hope is that having a dedicated, sparsely populated blog showcased so prominently will nag at me, compelling me to write more. Hopefully a habit will be formed..
+
+Here I'll comme on games I'm playing, praise a developer now and again, share my thoughts on the industry, and mostly discuss my own experiences with game development. I've accumulated a number of ramblings on the topic, most concerning my unceasing rediscovery of how hard game dev can be. Considering that most of which were cranked out in the mushed brain state following a long programming session, we'll see what can be salvaged there. My hope is to encourage other struggling devs and newcomers to stick with it, as for me the gratification of finalizing a game is unparalleled.
+
+<blockquote>
+    Carpe the diem. Seize the carp. 
+    —Pig Pen, Out Cold
+</blockquote>
+
+Wise words, right? No, really I'm just fairly new to HTML and web dev and wanted to check out the block quote styling. Neat.
+
+#### The site
+</br>
+Now a bit about the site. Considering a number of my projects call GitHub home, GitHub Pages seemed an ideal location for my personal site. While I intended to develop a theme with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> from scratch, I quickly realized the project would consume more of my time than desired. Thus, for now, I'll be making use of the <a href="http://jekyllthemes.org/themes/folio/" target="_blank">*folio</a> theme, built by Lia Bogoev.
+
+That's all for now! 
