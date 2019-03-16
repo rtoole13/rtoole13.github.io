@@ -14,7 +14,6 @@ This tool utilizes <a href="https://en.wikipedia.org/wiki/Perlin_noise">Perlin n
 	<p>Check out the tool <a href="{{ site.baseurl }}/perlin">here</a>, and the repository <a href="https://github.com/rtoole13/perlin">here!</a></p>
 {% endif %}
 <br/>
-<br/>
 A few creations:
 </div>
 
@@ -29,5 +28,10 @@ A few creations:
 </div>
 
 <div>
-The neat little gui uses <a href="https://github.com/dataarts/dat.gui"> dat.gui</a>, an incredibly useful tool for sandboxes. 	
+<br/>
+<p>I wanted to grant as much control as possible over elements of the canvas, from the more intuitive particle speed and acceleration contribution from the field, labeled as "field factor" under the particle subfolder in the gui, to the much less intuitive field parameters, labeled rather misleadingly as "volatility." These parameters control the variability of vectors' directions and magnitudes in the field across space. The behavior ought to be inverted, but, as it stands, a small "volatility" implies that that parameter of the vectors in the field will be more variable than it otherwise would be with high volatility.
+</p>
+<p>
+Oh, and the neat little gui is thanks to <a href="https://github.com/dataarts/dat.gui"> dat.gui</a>, an incredibly useful tool for sandboxes.
+</p>
 </div>
