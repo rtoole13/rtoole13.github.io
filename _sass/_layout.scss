@@ -204,6 +204,7 @@ float: left;
 vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
+text-align: center;
 }
 .thumbnail{
 width: 100%;
@@ -232,7 +233,7 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 40px;
+padding: 25px;
 text-align: center;
 }
 .thumbnail a:hover span {
