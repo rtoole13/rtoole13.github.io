@@ -2,7 +2,7 @@
 layout: post
 title: Quadtree
 description: A visualization of quad tree implementation
-img: 
+img: /img/quadtree.gif
 ---
 <div>
 Fiddling with a quadtree, trying to optimize fps.
