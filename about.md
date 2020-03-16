@@ -20,6 +20,5 @@ By night I develop games! Mostly browser-based, and mostly involving meticulous 
 	<a href="mailto:rtoole13@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/rtoole13" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/ryan-toole-0647a57a/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://twitter.com/RyanBri04146241" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://twitter.com/RyanBrianDev" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
-
