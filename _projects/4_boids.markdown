@@ -13,7 +13,7 @@ In its current state, a very primitive <a href="https://en.wikipedia.org/wiki/Bo
 {% else %}
     <iframe width="1000" height="750" src="{{ site.baseurl }}/boids" frameBorder="0"></iframe>
     <p>Check out the repository <a href="https://github.com/rtoole13/boids">here!</a></p>
-    <p>Dedicated page <a href"{{ site.baseurl }}/boids">here</a>.</p>
+    <p>Dedicated page <a href="{{ site.baseurl }}/boids">here</a>.</p>
 {% endif %}
 
 </div>
