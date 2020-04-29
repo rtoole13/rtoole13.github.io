@@ -20,7 +20,7 @@ img: /img/stable_orbit-thumbnail.gif
     {% if jekyll.environment == "development" %}
         <p>Check out the actual project hosted <a href="https://rtoole13.github.io/Orbital">here</a>, and the repository <a href="https://github.com/rtoole13/Orbital">here!</a></p>
     {% else %}
-    	<p>Check out the tool <a href="{{ site.baseurl }}/Orbital">here</a>, and the repository <a href="https://github.com/rtoole13/Orbital">here!</a></p>
+    	<p>Check out the actual project hosted <a href="{{ site.baseurl }}/Orbital">here</a>, and the repository <a href="https://github.com/rtoole13/Orbital">here!</a></p>
     {% endif %}
     <br/>
 </div>
