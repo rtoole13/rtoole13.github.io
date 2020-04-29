@@ -15,6 +15,7 @@ Transfer maneuvers are neat.
 <div style="text-align:center">
     <img class="two" src="{{ site.baseurl }}/img/transfer-manuever.gif" alt="" title="Transfers"/>
 </div>
+<br/>
 
-Check out the actual project hosted <a href="https:/rtoole13.github.io/Orbital">here</a>.
+Check out the actual project hosted <a href={{ site.baseurl }}/Orbital">here</a>.
 <br/>
