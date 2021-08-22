@@ -2,7 +2,7 @@
 layout: post
 title: Orbital
 description: 2D astrodynamics
-img: /img/stable_orbit-thumbnail.gif
+img: /img/intersection_calculation.gif
 ---
 <div>
     Progress on a KSP-esque orbital mechanics game.
@@ -30,7 +30,7 @@ img: /img/stable_orbit-thumbnail.gif
     <div style="text-align:center">
         <img class="two" src="{{ site.baseurl }}/img/maneuver-nodes_adjust.gif" alt="" title="Maneuvers"/>
     </div>
-    
+
     <br/>
 
     {% if jekyll.environment == "development" %}
