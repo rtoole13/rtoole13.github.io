@@ -5,6 +5,8 @@ description: A fast-paced battle royale
 img: /img/blaster_minimized.gif
 ---
 
+Now hosted on itch.io! Play it <a href="https://moonshotstudios.itch.io/spaceroyale">here</a>! Many thanks to <a href="https://github.com/sjdodge123">sjdodge123</a> for porting it.
+
 Years ago a friend of mine and I attempted to build an online multiplayer game after having finished up our first complete project, *Space Pirates* (apparently we took naming the project as seriously as we did the concept). That project was a top-down local multiplayer game in which players attempted to avoid slamming their 17th-century-looking wooden space ships into planets while navigating basic orbital mechanics and firing broadsides at one another.. It was silly fun, and if I ever manage to dig up some screenshots or, better yet, a working build, I'll certainly share. The latter project was an attempt at something akin to <a href="https://subsetgames.com/ftl.html">FTL</a>, one of several fantastic projects of *Subset Games*, but with online multiplayer.  
 
 We attempted to build this brutally overscoped multiplayer game in ActionScript, yep, and shelved it after banging our heads against <a href="https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/net/Socket.html">Sockets</a> for a bit, getting only limited functionality from our efforts. Later reviving the desire to create something multiplayer, we came up with <a href="https://github.com/sjdodge123/spacepirates.io">SpaceRoyale.io</a>, when battle royales (BR) were exploding in popularity.  
@@ -38,6 +40,4 @@ Another ability, the pulse wave, allows you to pull enemies towards you. The for
 </div>
 <br/>
 I intend to write a much-delayed post mortem on the project in which I'll go into detail on how the game's structured and discuss some of the difficulties faced in our first attempt at building something with this client-server model. There's a lot to discuss here, as I learned a ton building an entire game without an established framework. It's a painstaking way to develop, but, having done this multiple times now, I wouldn't go back and change my approach if I could. Between this project and <a href="{{ site.baseurl }}/pickets">Pickets</a>, I've built functional tools for handling audio, rendering sprite sheets, handling collision efficiently with quad trees, and, most importantly, learned the hard way how these game systems ought to and ought not to interact..
-
- We'll host the game again at a point!
 <br/><br/><br/>
