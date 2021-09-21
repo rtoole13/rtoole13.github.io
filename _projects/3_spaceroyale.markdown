@@ -5,7 +5,7 @@ description: A fast-paced battle royale
 img: /img/blaster_minimized.gif
 ---
 
-Now hosted on itch.io! Play it <a href="https://moonshotstudios.itch.io/spaceroyale">here</a>! Many thanks to <a href="https://github.com/sjdodge123">sjdodge123</a> for porting it.
+<b>Now hosted on itch.io! Play it <a href="https://moonshotstudios.itch.io/spaceroyale">here</a>! Many thanks to <a href="https://github.com/sjdodge123">sjdodge123</a> for porting it.</b>
 
 Years ago a friend of mine and I attempted to build an online multiplayer game after having finished up our first complete project, *Space Pirates* (apparently we took naming the project as seriously as we did the concept). That project was a top-down local multiplayer game in which players attempted to avoid slamming their 17th-century-looking wooden space ships into planets while navigating basic orbital mechanics and firing broadsides at one another.. It was silly fun, and if I ever manage to dig up some screenshots or, better yet, a working build, I'll certainly share. The latter project was an attempt at something akin to <a href="https://subsetgames.com/ftl.html">FTL</a>, one of several fantastic projects of *Subset Games*, but with online multiplayer.  
 
@@ -19,7 +19,7 @@ Our take on a BR attempted to assuage some of our gripes with the genre in the f
 - Providing an experience accessible to players with different time commitments  
 - Maintaining a flow for players wherein they never felt under- or overwhelmed by challenges presented as they increased in skill  
 
-The resulting prototype (sadly not hosted at the moment) offered fast-paced, short game sessions, bypassed the typical BR loot mechanic in favor of customizable loadouts in a pre-game lobby, featured multiple weapons, passive traits, and special abilities, and used a collectible system similar to that in <a href="https://supercell.com/en/games/brawlstars/">Brawl Stars'</a> *Showdown* mode. In lieu of the actual game, gifs!
+The resulting <a href="https://moonshotstudios.itch.io/spaceroyale">prototype</a> offers fast-paced, short game sessions, bypasses the typical BR loot mechanic in favor of customizable loadouts in a pre-game lobby, features multiple weapons, passive traits, and special abilities, and uses a collectible system similar to that in <a href="https://supercell.com/en/games/brawlstars/">Brawl Stars'</a> *Showdown* mode.
 <div class="img_row" style="text-align:center">
 	<img class="two" src="{{ site.baseurl }}/img/blaster.gif" alt="" title="Blaster action."/>
 </div>
