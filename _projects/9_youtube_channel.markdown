@@ -11,4 +11,4 @@ Check out my first video, covering parts 1 and 2 of a 4 part series describing K
 </div>
 <br/>
 <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y8RVdK416Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="text-align:center" width="560" height="315" src="https://www.youtube.com/embed/y8RVdK416Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
