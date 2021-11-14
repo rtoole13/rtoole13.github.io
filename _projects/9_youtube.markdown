@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Youtube Channel
+title: Youtube
 description: A channel dedicated to space education
 img: /img/kepler_portrait.jpg
 ---
